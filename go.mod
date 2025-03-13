@@ -4,7 +4,7 @@ go 1.23.0
 
 replace github.com/K-Phoen/grabana v0.22.2 => github.com/fastleansmart/grabana v0.23.0
 
-replace github.com/K-Phoen/sdk v0.12.4 => github.com/fastleansmart/grafana-sdk v0.14.3
+replace github.com/K-Phoen/sdk v0.12.4 => github.com/fastleansmart/grafana-sdk v0.14.4
 
 require (
 	github.com/K-Phoen/grabana v0.22.2
