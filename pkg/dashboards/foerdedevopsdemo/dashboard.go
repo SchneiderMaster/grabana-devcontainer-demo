@@ -22,7 +22,7 @@ func Dashboard() (dashboard.Builder, error) {
 			textx.Markdown(`# Hello World
 This is some markdown text that has been generated using Grabana!
 
-Your currently selected option is `+"`"+`${variable}`+"`"+`.
+Your currently selected variable is `+"`"+`${variable}`+"`"+`.
 			`),
 			textx.GridPos(12, 12, 0, 0),
 		),
